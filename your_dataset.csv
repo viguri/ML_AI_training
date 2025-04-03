@@ -1,0 +1,11 @@
+id,name,age,salary,department,experience,performance_score,education_level,missing_column
+1,John Smith,35,75000,Engineering,8,4.2,Masters,
+2,Emma Johnson,28,62000,Marketing,4,3.8,Bachelors,80
+3,Michael Brown,42,95000,Engineering,15,4.5,PhD,90
+4,Sarah Davis,,68000,Sales,6,3.9,Bachelors,75
+5,James Wilson,39,82000,Engineering,12,4.1,Masters,85
+6,Lisa Anderson,31,70000,,5,4.0,Bachelors,82
+7,Robert Taylor,45,98000,Sales,18,4.7,,88
+8,Jennifer Martin,33,,Marketing,7,3.7,Masters,78
+9,William Thompson,37,78000,Engineering,10,,Bachelors,83
+10,Jessica Garcia,29,64000,Sales,3,3.6,Bachelors,77
